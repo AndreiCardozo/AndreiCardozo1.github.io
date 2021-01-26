@@ -1,0 +1,47 @@
+body {
+    
+    padding-top: 50px;
+}
+
+.navbar-brand{
+    
+    font-weight: 700;
+}
+
+
+section{
+    padding-top: 55px;
+    padding-bottom: 15px;
+    min-height: 100vh;
+}
+
+section#contato {
+    min-height: 80vh;   
+}
+
+.divslider{
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background:url(bgslider.png);
+}
+
+
+.div_colorida{
+   background:url(bgslider.png); 
+    
+}
+
+.contato textarea {
+    height: 150px;   
+}
+
+.contato .aviso {
+   padding: 15px; 
+}  
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: url(bgslider.png); 
+}
